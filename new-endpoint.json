@@ -1,0 +1,8 @@
+{
+    "identifier": "meow-home",
+    "url": "https://example.com/",
+    "method": "GET",
+    "status_online": 200,
+    "frequency": "30s",
+    "fail_after": 2
+}
